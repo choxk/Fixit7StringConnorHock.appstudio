@@ -21,6 +21,14 @@
             "StringMethods", 
             "StringMethods.json"
           ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "Friends", 
+            "Friends.json"
+          ]
         }
       ], 
       "configxml": null, 
